@@ -14,7 +14,7 @@
     "mysql": "^2.10.2"
   },
   "dependencies": {
-    "bootstrap": "^4.1.2",
+    "bootstrap": "^4.3.1",
     "electron-log": "^2.2.14",
     "font-awesome": "^4.7.0",
     "moment": "^2.22.1",
